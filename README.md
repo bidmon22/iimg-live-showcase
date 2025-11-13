@@ -120,3 +120,39 @@ This repository is documentation-only.
 ---
 
 ## 📊 System Architecture (Simplified)
+
+Clients upload → stored in R2 → served globally via CDN.
+
+---
+
+## 👤 Founder
+
+**Name:** Bidyut Mondal 
+**Role:** Solo Founder / Developer  
+**Email:** founder@iimg.live  
+**Website:** https://iimg.live
+
+---
+
+## 🤝 Purpose of This Repository
+
+This repo exists to:
+
+- Document the project  
+- Showcase architecture for review  
+- Apply to Cloudflare developer/startup programs  
+- Share technical plans  
+- Build community transparency  
+
+The backend code remains private.
+
+---
+
+## 📬 Contact
+
+If you want to collaborate, suggest improvements, or contribute ideas, feel free to reach out:
+
+📧 **founder@iimg.live**  
+🌐 https://iimg.live
+
+---
